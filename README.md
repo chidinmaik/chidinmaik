@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHIDINMA%20IK&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1e1b4b,100:06b6d4&fontColor=67e8f9&fontSize=58&desc=Frontend%20Developer%20%7C%20Creator%20Mode&descAlign=50&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Jedi%20Dtechmaker&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1e1b4b,100:06b6d4&fontColor=67e8f9&fontSize=58&desc=Frontend%20Developer%20%7C%20Creator%20Mode&descAlign=50&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
