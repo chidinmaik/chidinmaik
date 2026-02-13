@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHIDINMA%20IK&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1e1b4b,100:06b6d4&fontColor=67e8f9&fontSize=58&desc=Frontend%20Developer%20%7C%20Creator%20Mode%20%7C%20JavaScript%20Only&descAlign=50&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=CHIDINMA%20IK&fontAlign=50&fontAlignY=36&color=0:020617,35:0f172a,70:1e1b4b,100:06b6d4&fontColor=67e8f9&fontSize=58&desc=Frontend%20Developer%20%7C%20Creator%20Mode&descAlign=50&descAlignY=58" alt="Header" />
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@ Stack Rule: JavaScript forever
 
 ## LIVE DASHBOARD
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chidinmaik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=chidinmaik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chidinmaik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chidinmaik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Languages" />
 </p>
 
 <p align="center">
@@ -62,3 +62,4 @@ Stack Rule: JavaScript forever
 
 I build interfaces that hit fast, look premium, and keep users moving.
 </details>
+
