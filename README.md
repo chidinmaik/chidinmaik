@@ -1,56 +1,64 @@
-<h2 align="left">Hi 👋! My name is Chidinma and I'm a Frontend Developer and no I don't write Typescript</h2>
+<h1 align="center">Chidinma Ik</h1>
+<h3 align="center">Frontend Developer | JavaScript First | No TypeScript Zone</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+clean%2C+interactive+web+experiences;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Turning+ideas+into+production-ready+interfaces" alt="Typing intro" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chidinmaik&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chidinmaik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chidinmaik&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1894504771223998464/mxCmvdCI_400x400.jpg"  />
+### About Me
+- Frontend developer focused on user-friendly, responsive interfaces.
+- I work mostly with JavaScript and React.
+- I also build with WordPress, PHP, HTML, and CSS.
+- I care about clear UI, performance, and polished interactions.
 
-###
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,php,wordpress,figma" alt="Tech stack" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-</div>
+### GitHub Snapshot
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chidinmaik&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chidinmaik&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
-###
+<details>
+  <summary><strong>What I am currently working on</strong></summary>
 
-<div align="left">
-  <a href="https://discord.com/jedi_dtechmaker" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="blessingchidinmaik@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+- Building smooth landing pages and portfolio interfaces.
+- Improving React component structure and reusability.
+- Practicing animation and micro-interactions for better UX.
+</details>
+
+<details>
+  <summary><strong>Open to collaboration on</strong></summary>
+
+- Frontend projects (React + JavaScript)
+- Website redesigns and UI modernization
+- WordPress frontend customization
+</details>
+
+### Connect With Me
+<p>
+  <a href="mailto:blessingchidinmaik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/blessingik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://discord.com/users/jedi_dtechmaker" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chidinmaik/chidinmaik/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chidinmaik/chidinmaik/output/snake.svg" alt="Snake animation" />
+</p>
